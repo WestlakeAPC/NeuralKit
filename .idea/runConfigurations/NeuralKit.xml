@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NeuralKit" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NeuralKit" TARGET_NAME="NeuralKit" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/.build/debug/NeuralKit">
+    <envs />
+    <method />
+  </configuration>
+</component>
