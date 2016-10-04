@@ -10,4 +10,8 @@ public class NeuralNetwork {
         print("NEURAL NET GOES HERE")
     }
 
+    func train() {
+        print("YAY IT WORKS")
+    }
+
 }

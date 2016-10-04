@@ -2,9 +2,9 @@
 // Created by Eli Bradley on 9/22/16.
 //
 
+@testable import NeuralNetwork
 import Foundation
 import XCTest
-@testable import NeuralNetwork
 
 class NeuralKitTests: XCTestCase {
 

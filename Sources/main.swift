@@ -4,4 +4,6 @@
 
 import Foundation
 
-NeuralNetwork()
+let neuralNetwork = NeuralNetwork()
+
+neuralNetwork.train()
