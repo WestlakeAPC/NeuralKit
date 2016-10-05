@@ -43,4 +43,9 @@ class Perceptron {
             weights[i] += learningRate * error * inputs[i]
         }
     }
+
+    var description: String {
+        return "Weights are: \(weights)" +
+                "Learning Rate is: \(learningRate)"
+    }
 }
