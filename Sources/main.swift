@@ -4,6 +4,4 @@
 
 import Foundation
 
-let neuralNetwork = NeuralNetwork()
-
-neuralNetwork.train()
+let p = Perceptron(numWeights: 64, learningRate: 0.01)
