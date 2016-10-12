@@ -1,4 +1,4 @@
-# NeuralKit, by Westlake APC
+# NeuralKit, by Westlake APC [![Slack Status](https://westlakeapc.herokuapp.com/badge.svg)](https://westlakeapc.herokuapp.com/)
 
 NeuralKit is a project by the Westlake Accessible Programming Club.
 It's a Swift 3.0 library meant as a skeleton for low-level neural
